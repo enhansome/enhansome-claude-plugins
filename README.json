@@ -1,0 +1,224 @@
+{
+  "items": [
+    {
+      "description": "Skills tell your agent how to work. An MCP Gateway gives it secure access to the tools it needs.\nComposio MCP Gateway provides a single MCP endpoint for 1,000+ integrations with built-in authentication, team-based access controls, audit logs, and production-ready reliability.",
+      "items": [],
+      "title": "Give your skills real-world actions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Clone & Run"
+    },
+    {
+      "description": "Paste your API key when asked. (Get a free key at dashboard.composio.dev",
+      "items": [],
+      "title": "2. Run Setup"
+    },
+    {
+      "description": "Ask Claude to send you a test email. If you receive it, Claude is now connected to 1000+ apps.\nSee all supported apps →",
+      "items": [],
+      "title": "3. Try It"
+    },
+    {
+      "description": "Claude Plugins are extensions that enhance Claude Code with custom slash commands, specialized agents, hooks, and skills. Plugins can be shared across projects and teams, providing consistent tooling and workflows.",
+      "items": [],
+      "title": "What Are Claude Plugins?"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Manifest",
+          "description": "Real-time cost observability for OpenClaw agents — track tokens, costs, messages, and model usage. Includes Claude Code skill for guided setup. Self-hosted, OTLP ingestion, 28+ LLM models. (Website)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:17:18Z",
+            "owner": "mnfst",
+            "repo": "manifest",
+            "stars": 7436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-cost-saver",
+          "description": "Automated AWS cost optimization with 173 checks across EC2, RDS, S3, Lambda, and more. ML-powered recommendations and real pricing from AWS API.",
+          "children": []
+        }
+      ],
+      "title": "DevOps & Performance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "security-sweep",
+          "description": "Comprehensive security scanner covering OWASP Top 10 (2025), Mobile Top 10 (2024), and LLM Top 10 (2025). Scans for hardcoded secrets, injection flaws, auth issues, misconfigurations, and AI-specific vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-05T22:11:59Z",
+            "owner": "Onome-AJ",
+            "repo": "security-sweep-plugin",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asqav-claude-code",
+          "description": "Signs a tamper-evident Asqav receipt at the end of each Claude Code session: files edited (content hashes before/after), commands run (hashed), and git context. Verifiable by anyone at asqav.com/verify.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T23:41:07Z",
+            "owner": "jagmarques",
+            "repo": "asqav-claude-code",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Documentation & Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "context-mode",
+          "description": "Process large outputs in sandboxed subprocesses, keeping only summaries in the context window. 98% context savings across 21 benchmarked scenarios.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T12:14:36Z",
+            "owner": "mksglu",
+            "repo": "context-mode",
+            "stars": 19840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codebase-graph",
+          "description": "Code intelligence MCP server that builds knowledge graphs from source code with 42-language tree-sitter AST parsing and FalkorDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-29T15:06:31Z",
+            "owner": "Phoenixrr2113",
+            "repo": "codebase-graph",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "backlog",
+          "description": "Persistent, cross-session task management. 24 MCP tools for tasks, projects, tags, dependencies, and docs. 7 skills for planning, standups, and handoffs. Event-sourced storage, agent coordination, pure TypeScript. (Website)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-30T12:50:23Z",
+            "owner": "backloghq",
+            "repo": "backlog",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agntk",
+          "description": "Zero-config AI agent CLI with persistent named agents, 20+ built-in tools, and hardware-aware local model selection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-17T16:31:42Z",
+            "owner": "Phoenixrr2113",
+            "repo": "agntk",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CCHub",
+          "description": "Desktop app for managing the Claude Code ecosystem — MCP marketplace, config profiles, skills & plugins browser, workflow templates, security audit. Built with Tauri v2 + React + Rust.",
+          "children": []
+        }
+      ],
+      "title": "Developer Productivity"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "taisly-agent-kit",
+          "description": "Claude Code plugin, skill, SDK, CLI, and MCP server for publishing short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook through Taisly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-06T08:18:09Z",
+            "owner": "taisly",
+            "repo": "agent",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nano-banana",
+          "description": "Google Gemini image generation plugin. Text-to-image, text-guided image editing, style transfer, 4K output, search grounding, and multi-reference composition — all from a single command. Powered by and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-08T10:49:33Z",
+            "owner": "Ibrahim-3d",
+            "repo": "nano-banana-claude-plugin",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Image and Video Generation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Getting Started"
+    },
+    {
+      "description": "Clone the repo and run Claude with any plugin:\nLoad multiple plugins at once:",
+      "items": [],
+      "title": "Using Plugins"
+    },
+    {
+      "description": "Each plugin follows the standard Claude Code plugin format:",
+      "items": [],
+      "title": "Plugin Structure"
+    },
+    {
+      "description": "MIT - See individual plugins for their specific licenses.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:23:24.796Z",
+    "original_repository": "composio-community/awesome-claude-plugins",
+    "original_repository_sha": "e521f7ada8d89abea888e67b93b4dcfbb977041f",
+    "enhanced_repository": "enhansome/enhansome-claude-plugins",
+    "enhanced_repository_description": null,
+    "title": "Awesome claude plugins with stars"
+  }
+}
