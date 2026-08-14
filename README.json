@@ -41,10 +41,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T14:17:18Z",
+            "last_commit": "2026-08-14T07:30:58Z",
             "owner": "mnfst",
             "repo": "manifest",
-            "stars": 7436
+            "stars": 7441
           }
         },
         {
@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T12:14:36Z",
+            "last_commit": "2026-08-14T12:14:16Z",
             "owner": "mksglu",
             "repo": "context-mode",
-            "stars": 19840
+            "stars": 19859
           }
         },
         {
@@ -214,7 +214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:23:24.796Z",
+    "last_updated": "2026-08-14T16:13:52.698Z",
     "original_repository": "composio-community/awesome-claude-plugins",
     "original_repository_sha": "e521f7ada8d89abea888e67b93b4dcfbb977041f",
     "enhanced_repository": "enhansome/enhansome-claude-plugins",
