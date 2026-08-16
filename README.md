@@ -99,7 +99,7 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 ### Integrations
 
 * [connect-apps](./connect-apps) - Connect Claude to any app. Send emails, create issues, post messages, update databases - take real actions across Gmail, Slack, GitHub, Notion, and 1000+ services.
-* [kaggle-skill](https://github.com/shepsci/kaggle-skill) ⭐ 81 | 🐛 0 | 🌐 Python | 📅 2026-07-04 - Complete Kaggle integration — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection.
+* [kaggle-skill](https://github.com/shepsci/kaggle-skill) ⭐ 82 | 🐛 0 | 🌐 Python | 📅 2026-07-04 - Complete Kaggle integration — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection.
 
 ### Frontend & Design
 
@@ -135,7 +135,7 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 
 ### DevOps & Performance
 
-* [Manifest](https://github.com/mnfst/manifest) ⭐ 7,444 | 🐛 111 | 🌐 TypeScript | 📅 2026-08-14 - Real-time cost observability for OpenClaw agents — track tokens, costs, messages, and model usage. Includes Claude Code [skill](https://github.com/mnfst/manifest/blob/main/skills/manifest/SKILL.md) ⭐ 7,444 | 🐛 111 | 🌐 TypeScript | 📅 2026-08-14 for guided setup. Self-hosted, OTLP ingestion, 28+ LLM models. ([Website](https://manifest.build))
+* [Manifest](https://github.com/mnfst/manifest) ⭐ 7,447 | 🐛 113 | 🌐 TypeScript | 📅 2026-08-15 - Real-time cost observability for OpenClaw agents — track tokens, costs, messages, and model usage. Includes Claude Code [skill](https://github.com/mnfst/manifest/blob/main/skills/manifest/SKILL.md) ⭐ 7,447 | 🐛 113 | 🌐 TypeScript | 📅 2026-08-15 for guided setup. Self-hosted, OTLP ingestion, 28+ LLM models. ([Website](https://manifest.build))
 * [perf](./perf) - Performance analysis and optimization. Identify bottlenecks and improve speed.
 * [audit-project](./audit-project) - Full project audit for code quality, dependencies, security, and best practices.
 * [MyVibe](https://www.myvibe.so) - Instant deployment to live URLs with `/myvibe:publish`.
@@ -150,9 +150,9 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 
 ### Developer Productivity
 
-* [context-mode](https://github.com/mksglu/claude-context-mode) ⭐ 19,872 | 🐛 152 | 🌐 TypeScript | 📅 2026-08-14 - Process large outputs in sandboxed subprocesses, keeping only summaries in the context window. 98% context savings across 21 benchmarked scenarios.
+* [context-mode](https://github.com/mksglu/claude-context-mode) ⭐ 19,898 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-16 - Process large outputs in sandboxed subprocesses, keeping only summaries in the context window. 98% context savings across 21 benchmarked scenarios.
 
-* [codebase-graph](https://github.com/Phoenixrr2113/codebase-graph) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-29 - Code intelligence MCP server that builds knowledge graphs from source code with 42-language tree-sitter AST parsing and FalkorDB.
+* [codebase-graph](https://github.com/Phoenixrr2113/codebase-graph) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-29 - Code intelligence MCP server that builds knowledge graphs from source code with 42-language tree-sitter AST parsing and FalkorDB.
 
 * [backlog](https://github.com/backloghq/backlog) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-30 - Persistent, cross-session task management. 24 MCP tools for tasks, projects, tags, dependencies, and docs. 7 skills for planning, standups, and handoffs. Event-sourced storage, agent coordination, pure TypeScript. ([Website](https://backloghq.io))
 
@@ -166,7 +166,7 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 
 ### Companion & Personality
 
-* [claude-familiar](https://github.com/yaniv-golan/claude-familiar) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2026-04-08 - Enhance Claude Code's `/buddy` companion with personality, mood, lore, and interactive commands (fortune, roast, haiku, focus timer). Mood shifts automatically on tool success/failure. Extensible — other plugins can layer traits and lore via `"x-familiarExtensions"` in their `plugin.json`.
+* [claude-familiar](https://github.com/yaniv-golan/claude-familiar) ⭐ 2 | 🐛 0 | 🌐 Shell | 📅 2026-04-08 - Enhance Claude Code's `/buddy` companion with personality, mood, lore, and interactive commands (fortune, roast, haiku, focus timer). Mood shifts automatically on tool success/failure. Extensible — other plugins can layer traits and lore via `"x-familiarExtensions"` in their `plugin.json`.
 
 ### Image and Video Generation
 
@@ -231,7 +231,7 @@ Please ensure your plugin:
 * [Claude Code Documentation](https://code.claude.com/docs)
 * [Plugin Development Guide](https://code.claude.com/docs/en/plugins)
 * [Discover Plugins](https://code.claude.com/docs/en/discover-plugins)
-* [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 72,536 | 🐛 1,248 | 🌐 Python | 📅 2026-08-10 - More skills and resources
+* [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 72,601 | 🐛 1,262 | 🌐 Python | 📅 2026-08-10 - More skills and resources
 
 ## License
 
@@ -239,4 +239,4 @@ MIT - See individual plugins for their specific licenses.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
