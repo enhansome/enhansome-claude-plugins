@@ -61,7 +61,7 @@
                 "last_commit": "2026-08-07T07:00:06Z",
                 "owner": "josstei",
                 "repo": "maestro-orchestrate",
-                "stars": 458
+                "stars": 459
               }
             }
           ],
@@ -83,7 +83,7 @@
                 "last_commit": "2026-08-24T23:42:13Z",
                 "owner": "mnfst",
                 "repo": "manifest",
-                "stars": 7478
+                "stars": 7477
               }
             }
           ],
@@ -139,10 +139,10 @@
                 "archived": false,
                 "id": 1164477708,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T18:06:53Z",
+                "last_commit": "2026-08-25T12:06:51Z",
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 20125
+                "stars": 20132
               }
             },
             {
@@ -259,7 +259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:39.664Z",
+    "last_updated": "2026-08-25T16:07:03.620Z",
     "original_repository": "composio-community/awesome-claude-plugins",
     "original_repository_id": 1080989149,
     "original_repository_sha": "e521f7ada8d89abea888e67b93b4dcfbb977041f",
