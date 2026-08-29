@@ -168,7 +168,7 @@
                 "open_issues": 115,
                 "owner": "mnfst",
                 "repo": "manifest",
-                "stars": 7483,
+                "stars": 7486,
                 "topics": [
                   "ai",
                   "ai-",
@@ -284,11 +284,11 @@
                 "id": 1164477708,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T16:01:23Z",
-                "open_issues": 192,
+                "last_commit": "2026-08-29T12:06:01Z",
+                "open_issues": 194,
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 20236,
+                "stars": 20243,
                 "topics": [
                   "antigravity",
                   "claude",
@@ -485,7 +485,7 @@
                 "open_issues": 2,
                 "owner": "taisly",
                 "repo": "agent",
-                "stars": 232,
+                "stars": 233,
                 "topics": [
                   "agent-kit",
                   "agentic-workflows",
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:29:20.452Z",
+    "last_updated": "2026-08-29T18:44:02.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.",
@@ -565,10 +565,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-07-26T09:02:02Z",
-      "open_issues": 322,
+      "open_issues": 323,
       "owner": "composio-community",
       "repo": "awesome-claude-plugins",
-      "stars": 1911,
+      "stars": 1910,
       "topics": [
         "anthropic",
         "claude-ai",
