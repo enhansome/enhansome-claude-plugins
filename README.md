@@ -98,7 +98,7 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 
 ### Integrations
 
-* [kaggle-skill](https://github.com/shepsci/kaggle-skill) ⭐ 83 | 🐛 0 | 🌐 Python | 📅 2026-07-04 - Complete Kaggle integration — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection.
+* [kaggle-skill](https://github.com/shepsci/kaggle-skill) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2026-07-04 - Complete Kaggle integration — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection.
 * [connect-apps](./connect-apps) - Connect Claude to any app. Send emails, create issues, post messages, update databases - take real actions across Gmail, Slack, GitHub, Notion, and 1000+ services.
 
 ### Frontend & Design
@@ -135,7 +135,7 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 
 ### DevOps & Performance
 
-* [Manifest](https://github.com/mnfst/manifest) ⭐ 7,479 | 🐛 113 | 🌐 TypeScript | 📅 2026-08-28 - Real-time cost observability for OpenClaw agents — track tokens, costs, messages, and model usage. Includes Claude Code [skill](https://github.com/mnfst/manifest/blob/main/skills/manifest/SKILL.md) ⭐ 7,479 | 🐛 113 | 🌐 TypeScript | 📅 2026-08-28 for guided setup. Self-hosted, OTLP ingestion, 28+ LLM models. ([Website](https://manifest.build))
+* [Manifest](https://github.com/mnfst/manifest) ⭐ 7,483 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-28 - Real-time cost observability for OpenClaw agents — track tokens, costs, messages, and model usage. Includes Claude Code [skill](https://github.com/mnfst/manifest/blob/main/skills/manifest/SKILL.md) ⭐ 7,483 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-28 for guided setup. Self-hosted, OTLP ingestion, 28+ LLM models. ([Website](https://manifest.build))
 * [perf](./perf) - Performance analysis and optimization. Identify bottlenecks and improve speed.
 * [audit-project](./audit-project) - Full project audit for code quality, dependencies, security, and best practices.
 * [MyVibe](https://www.myvibe.so) - Instant deployment to live URLs with `/myvibe:publish`.
@@ -150,7 +150,7 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 
 ### Developer Productivity
 
-* [context-mode](https://github.com/mksglu/claude-context-mode) ⭐ 20,194 | 🐛 190 | 🌐 TypeScript | 📅 2026-08-27 - Process large outputs in sandboxed subprocesses, keeping only summaries in the context window. 98% context savings across 21 benchmarked scenarios.
+* [context-mode](https://github.com/mksglu/claude-context-mode) ⭐ 20,229 | 🐛 192 | 🌐 TypeScript | 📅 2026-08-28 - Process large outputs in sandboxed subprocesses, keeping only summaries in the context window. 98% context savings across 21 benchmarked scenarios.
 
 * [codebase-graph](https://github.com/Phoenixrr2113/codebase-graph) ⭐ 7 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-24 - Code intelligence MCP server that builds knowledge graphs from source code with 42-language tree-sitter AST parsing and FalkorDB.
 
@@ -231,7 +231,7 @@ Please ensure your plugin:
 * [Claude Code Documentation](https://code.claude.com/docs)
 * [Plugin Development Guide](https://code.claude.com/docs/en/plugins)
 * [Discover Plugins](https://code.claude.com/docs/en/discover-plugins)
-* [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 73,608 | 🐛 1,336 | 🌐 Python | 📅 2026-08-10 - More skills and resources
+* [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 73,813 | 🐛 1,346 | 🌐 Python | 📅 2026-08-10 - More skills and resources
 
 ## License
 
@@ -239,4 +239,4 @@ MIT - See individual plugins for their specific licenses.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

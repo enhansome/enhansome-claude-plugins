@@ -17,8 +17,9 @@
                 "last_commit": "2026-07-04T17:56:04Z",
                 "owner": "shepsci",
                 "repo": "kaggle-skill",
-                "stars": 83
-              }
+                "stars": 84
+              },
+              "first_seen": "2026-08-29T00:03:05.007Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "0xmariowu",
                 "repo": "AgentLint",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-29T00:03:05.007Z"
             }
           ],
           "description": null,
@@ -62,7 +64,8 @@
                 "owner": "josstei",
                 "repo": "maestro-orchestrate",
                 "stars": 459
-              }
+              },
+              "first_seen": "2026-08-29T00:03:05.007Z"
             }
           ],
           "description": null,
@@ -80,11 +83,12 @@
                 "archived": false,
                 "id": 542185751,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T00:26:00Z",
+                "last_commit": "2026-08-28T08:09:40Z",
                 "owner": "mnfst",
                 "repo": "manifest",
-                "stars": 7479
-              }
+                "stars": 7483
+              },
+              "first_seen": "2026-08-29T00:03:05.007Z"
             }
           ],
           "description": null,
@@ -106,7 +110,8 @@
                 "owner": "Onome-AJ",
                 "repo": "security-sweep-plugin",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:03:05.007Z"
             },
             {
               "node_type": "item",
@@ -121,7 +126,8 @@
                 "owner": "jagmarques",
                 "repo": "asqav-claude-code",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:03:05.007Z"
             }
           ],
           "description": null,
@@ -139,11 +145,12 @@
                 "archived": false,
                 "id": 1164477708,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T15:37:58Z",
+                "last_commit": "2026-08-28T16:01:23Z",
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 20194
-              }
+                "stars": 20229
+              },
+              "first_seen": "2026-08-29T00:03:05.007Z"
             },
             {
               "node_type": "item",
@@ -158,7 +165,8 @@
                 "owner": "Phoenixrr2113",
                 "repo": "codebase-graph",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:03:05.007Z"
             },
             {
               "node_type": "item",
@@ -173,7 +181,8 @@
                 "owner": "backloghq",
                 "repo": "backlog",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:03:05.007Z"
             },
             {
               "node_type": "item",
@@ -188,7 +197,8 @@
                 "owner": "Phoenixrr2113",
                 "repo": "agntk",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:03:05.007Z"
             }
           ],
           "description": null,
@@ -210,7 +220,8 @@
                 "owner": "yaniv-golan",
                 "repo": "claude-familiar",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:03:05.007Z"
             }
           ],
           "description": null,
@@ -232,7 +243,8 @@
                 "owner": "taisly",
                 "repo": "agent",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-29T00:03:05.007Z"
             },
             {
               "node_type": "item",
@@ -247,7 +259,8 @@
                 "owner": "Ibrahim-3d",
                 "repo": "nano-banana-claude-plugin",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:03:05.007Z"
             }
           ],
           "description": null,
@@ -259,7 +272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:29:13.368Z",
+    "last_updated": "2026-08-29T00:03:05.007Z",
     "original_repository_info": {
       "archived": false,
       "id": 1080989149,
@@ -267,7 +280,7 @@
       "last_commit": "2026-07-26T09:02:02Z",
       "owner": "composio-community",
       "repo": "awesome-claude-plugins",
-      "stars": 1907
+      "stars": 1911
     },
     "original_repository_sha": "e521f7ada8d89abea888e67b93b4dcfbb977041f",
     "enhanced_repository": "enhansome/enhansome-claude-plugins",
