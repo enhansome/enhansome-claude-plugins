@@ -12,12 +12,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Complete Kaggle integration plugin/skill for AI coding agents — competition reports, dataset/model downloads, notebook execution, and badge collection. Works with Claude Code, Gemini CLI, Cursor, Codex, OpenClaw, and 35+ agents via skills.sh.",
+                "homepage": "https://github.com/shepsci/kaggle-skill",
                 "id": 1155456923,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-04T17:56:04Z",
+                "open_issues": 0,
                 "owner": "shepsci",
                 "repo": "kaggle-skill",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "agent-skill",
+                  "ai-coding-agent",
+                  "claude-code",
+                  "claude-code-plugin",
+                  "claude-code-skill",
+                  "codex",
+                  "competitions",
+                  "cursor",
+                  "data-science",
+                  "gemini-cli",
+                  "hackathon",
+                  "kaggle",
+                  "kaggle-mcp",
+                  "kagglehub",
+                  "machine-learning",
+                  "mcp",
+                  "mcp-server",
+                  "openclaw",
+                  "skills-sh",
+                  "writeup"
+                ]
               },
               "first_seen": "2026-08-29T00:03:05.007Z"
             }
@@ -35,12 +61,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The linter for your agent harness. Works with Claude Code, Codex, and Cursor.",
+                "homepage": "https://agentlint.app",
                 "id": 1199710611,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-07-24T15:54:22Z",
+                "open_issues": 2,
                 "owner": "0xmariowu",
                 "repo": "AgentLint",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "agent-friendly",
+                  "agents-md",
+                  "ai-agent",
+                  "ai-coding",
+                  "ai-coding-agent",
+                  "ai-ready",
+                  "claude-code",
+                  "claude-code-plugin",
+                  "claude-md",
+                  "code-quality",
+                  "codex",
+                  "context-engineering",
+                  "cursor",
+                  "developer-tools",
+                  "github-copilot",
+                  "harness-engineering",
+                  "linter",
+                  "llm-tools",
+                  "prompt-engineering",
+                  "repository-intelligence"
+                ]
               },
               "first_seen": "2026-08-29T00:03:05.007Z"
             }
@@ -58,12 +110,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools",
+                "homepage": "https://josstei.github.io/maestro-orchestrate/",
                 "id": 1153318872,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-07T07:00:06Z",
+                "open_issues": 7,
                 "owner": "josstei",
                 "repo": "maestro-orchestrate",
-                "stars": 459
+                "stars": 459,
+                "topics": [
+                  "agentic",
+                  "ai-agents",
+                  "anthropic",
+                  "claude",
+                  "claude-code",
+                  "claude-code-plugin",
+                  "code-review",
+                  "codex-cli",
+                  "codex-plugin",
+                  "developer-tools",
+                  "gemini",
+                  "gemini-cli",
+                  "gemini-cli-extension",
+                  "gemini-extension",
+                  "multi-agent",
+                  "openai-codex",
+                  "orchestration",
+                  "qwen",
+                  "qwen-code",
+                  "subagents"
+                ]
               },
               "first_seen": "2026-08-29T00:03:05.007Z"
             }
@@ -81,12 +159,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Connect Your Agents And Harnesses With Any Provider 🦚",
+                "homepage": "https://manifest.build",
                 "id": 542185751,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T08:09:40Z",
+                "open_issues": 115,
                 "owner": "mnfst",
                 "repo": "manifest",
-                "stars": 7483
+                "stars": 7483,
+                "topics": [
+                  "ai",
+                  "ai-",
+                  "ai-sdk",
+                  "anthropic",
+                  "byok",
+                  "cost-tracking",
+                  "gateway",
+                  "hermes-agent",
+                  "llm-observability",
+                  "llm-router",
+                  "open-source",
+                  "openai-api",
+                  "openclaw",
+                  "subscription",
+                  "token-tracking"
+                ]
               },
               "first_seen": "2026-08-29T00:03:05.007Z"
             }
@@ -104,12 +203,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free Claude Code plugin that scans your project for leaked API keys, security holes, and common mistakes before you ship. No security expertise needed.",
+                "homepage": null,
                 "id": 1202296828,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-05T22:11:59Z",
+                "open_issues": 0,
                 "owner": "Onome-AJ",
                 "repo": "security-sweep-plugin",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "ai-security",
+                  "api-key-leak",
+                  "claude-code",
+                  "claude-code-plugin",
+                  "code-review",
+                  "developer-tools",
+                  "devtools",
+                  "mobile-security",
+                  "owasp",
+                  "sast",
+                  "secret-scanning",
+                  "secrets-detection",
+                  "security",
+                  "static-analysis",
+                  "vibe-coding",
+                  "vulnerability-scanner",
+                  "web-security"
+                ]
               },
               "first_seen": "2026-08-29T00:03:05.007Z"
             },
@@ -120,12 +242,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Signed Asqav receipts for Claude Code sessions. Tamper evident evidence of what your coding agent did.",
+                "homepage": "https://asqav.com",
                 "id": 1267540434,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-01T23:41:07Z",
+                "open_issues": 0,
                 "owner": "jagmarques",
                 "repo": "asqav-claude-code",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "ai-agents",
+                  "ai-governance",
+                  "audit-trail",
+                  "claude-code",
+                  "code-authorship",
+                  "compliance",
+                  "signed-receipts",
+                  "verifiable-evidence"
+                ]
               },
               "first_seen": "2026-08-29T00:03:05.007Z"
             }
@@ -143,12 +279,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+                "homepage": "https://context-mode.com",
                 "id": 1164477708,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:01:23Z",
+                "open_issues": 192,
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 20229
+                "stars": 20236,
+                "topics": [
+                  "antigravity",
+                  "claude",
+                  "claude-code",
+                  "claude-code-hooks",
+                  "claude-code-plugins",
+                  "claude-code-skill",
+                  "codex",
+                  "codex-cli",
+                  "context-mode",
+                  "copilot",
+                  "cursor-plugin",
+                  "kiro",
+                  "mcp",
+                  "mcp-server",
+                  "mcp-tools",
+                  "openclaw",
+                  "opencode",
+                  "pi-agent",
+                  "skills",
+                  "zed-extension"
+                ]
               },
               "first_seen": "2026-08-29T00:03:05.007Z"
             },
@@ -159,12 +321,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code knowledge graph and MCP search server with tree-sitter parsing, vector + reranker retrieval, and bitemporal knowledge.",
+                "homepage": "https://v0-landing-page-build-kappa-virid.vercel.app",
                 "id": 1135873291,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T22:42:37Z",
+                "open_issues": 8,
                 "owner": "Phoenixrr2113",
                 "repo": "codebase-graph",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "ai",
+                  "ai-tools",
+                  "ast",
+                  "automation",
+                  "claude",
+                  "claude-code",
+                  "code-analysis",
+                  "code-intelligence",
+                  "code-search",
+                  "cursor",
+                  "developer-tools",
+                  "falkordb",
+                  "knowledge-graph",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "tree-sitter",
+                  "typescript",
+                  "vector-search"
+                ]
               },
               "first_seen": "2026-08-29T00:03:05.007Z"
             },
@@ -175,12 +362,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Persistent task management plugin for Claude Code and agent teams",
+                "homepage": null,
                 "id": 1203189299,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-30T12:50:23Z",
+                "open_issues": 1,
                 "owner": "backloghq",
                 "repo": "backlog",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:05.007Z"
             },
@@ -191,12 +383,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modular AI agent framework built on Vercel AI SDK. Zero-config agents with real tools, durable workflows, and HTTP interfaces.",
+                "homepage": "https://phoenixrr2113.github.io/agntk/",
                 "id": 1134426829,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-17T16:31:42Z",
+                "open_issues": 13,
                 "owner": "Phoenixrr2113",
                 "repo": "agntk",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "ai-agent",
+                  "ai-tools",
+                  "automation",
+                  "claude",
+                  "claude-code",
+                  "cli",
+                  "cursor",
+                  "developer-tools",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "ollama",
+                  "sdk",
+                  "typescript",
+                  "vercel-ai-sdk",
+                  "workflow",
+                  "zero-config"
+                ]
               },
               "first_seen": "2026-08-29T00:03:05.007Z"
             }
@@ -214,12 +432,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Familiar — customize the Claude Code companion: personality, mood, lore, MCP tools, local reaction server, optional binary patch.",
+                "homepage": null,
                 "id": 1201164253,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-04-08T16:52:33Z",
+                "open_issues": 0,
                 "owner": "yaniv-golan",
                 "repo": "claude-familiar",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "ai-companion",
+                  "anthropic",
+                  "bun",
+                  "claude-buddy",
+                  "claude-code",
+                  "claude-code-plugin",
+                  "developer-tools",
+                  "extensibility",
+                  "hooks",
+                  "mcp",
+                  "mcp-bash",
+                  "model-context-protocol",
+                  "monorepo",
+                  "plugins",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T00:03:05.007Z"
             }
@@ -237,12 +476,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Taisly Agent Kit: MCP server, CLI, SDK, and agent docs for publishing videos to TikTok, Reels, Shorts, X, and Facebook.",
+                "homepage": "https://taisly.com/en/ai-agent-kit",
                 "id": 1265780842,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-06T08:18:09Z",
+                "open_issues": 2,
                 "owner": "taisly",
                 "repo": "agent",
-                "stars": 232
+                "stars": 232,
+                "topics": [
+                  "agent-kit",
+                  "agentic-workflows",
+                  "ai-agent-tools",
+                  "ai-agents",
+                  "claude-code",
+                  "codex",
+                  "codex-cli",
+                  "codex-plugin",
+                  "codex-skills",
+                  "cursor",
+                  "instagram-reels",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "openai-codex",
+                  "social-media",
+                  "social-media-automation",
+                  "tiktok-api",
+                  "video-publishing",
+                  "youtube-shorts"
+                ]
               },
               "first_seen": "2026-08-29T00:03:05.007Z"
             },
@@ -253,12 +518,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nano Banana - AI image generation plugin for Claude Code. 13 modes: text-to-image, editing, style transfer, inpainting, 4K, search grounding. Powered by Google Gemini API.",
+                "homepage": null,
                 "id": 1154635402,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-04-08T10:49:33Z",
+                "open_issues": 2,
                 "owner": "Ibrahim-3d",
                 "repo": "nano-banana-claude-plugin",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "4k-image-generation",
+                  "ai-art",
+                  "claude-code",
+                  "claude-code-plugin",
+                  "gemini",
+                  "gemini-api",
+                  "google-ai",
+                  "image-generation",
+                  "inpainting",
+                  "nano-banana",
+                  "nano-banana-pro",
+                  "style-transfer",
+                  "text-to-image"
+                ]
               },
               "first_seen": "2026-08-29T00:03:05.007Z"
             }
@@ -272,15 +556,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:03:05.007Z",
+    "last_updated": "2026-08-29T04:29:20.452Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.",
+      "homepage": null,
       "id": 1080989149,
       "language": "JavaScript",
+      "license": null,
       "last_commit": "2026-07-26T09:02:02Z",
+      "open_issues": 322,
       "owner": "composio-community",
       "repo": "awesome-claude-plugins",
-      "stars": 1911
+      "stars": 1911,
+      "topics": [
+        "anthropic",
+        "claude-ai",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-plugin-marketplace",
+        "claude-code-plugins",
+        "claude-code-plugins-marketplace",
+        "claude-cowork",
+        "claude-desktop",
+        "claude-plugins",
+        "claude-skills",
+        "plugins"
+      ]
     },
     "original_repository_sha": "e521f7ada8d89abea888e67b93b4dcfbb977041f",
     "enhanced_repository": "enhansome/enhansome-claude-plugins",

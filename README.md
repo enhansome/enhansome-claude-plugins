@@ -150,7 +150,7 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 
 ### Developer Productivity
 
-* [context-mode](https://github.com/mksglu/claude-context-mode) ⭐ 20,229 | 🐛 192 | 🌐 TypeScript | 📅 2026-08-28 - Process large outputs in sandboxed subprocesses, keeping only summaries in the context window. 98% context savings across 21 benchmarked scenarios.
+* [context-mode](https://github.com/mksglu/claude-context-mode) ⭐ 20,236 | 🐛 192 | 🌐 TypeScript | 📅 2026-08-28 - Process large outputs in sandboxed subprocesses, keeping only summaries in the context window. 98% context savings across 21 benchmarked scenarios.
 
 * [codebase-graph](https://github.com/Phoenixrr2113/codebase-graph) ⭐ 7 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-24 - Code intelligence MCP server that builds knowledge graphs from source code with 42-language tree-sitter AST parsing and FalkorDB.
 
@@ -231,7 +231,7 @@ Please ensure your plugin:
 * [Claude Code Documentation](https://code.claude.com/docs)
 * [Plugin Development Guide](https://code.claude.com/docs/en/plugins)
 * [Discover Plugins](https://code.claude.com/docs/en/discover-plugins)
-* [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 73,813 | 🐛 1,346 | 🌐 Python | 📅 2026-08-10 - More skills and resources
+* [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 73,827 | 🐛 1,346 | 🌐 Python | 📅 2026-08-10 - More skills and resources
 
 ## License
 
