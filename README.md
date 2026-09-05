@@ -120,7 +120,7 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 
 ### Code Quality & Testing
 
-* [AgentLint](https://github.com/0xmariowu/AgentLint) ⭐ 54 | 🐛 2 | 🌐 Shell | 📅 2026-07-24 - Lint your repo for AI agent compatibility. 33 evidence-backed checks across 5 dimensions. Claude Code plugin.
+* [AgentLint](https://github.com/0xmariowu/AgentLint) ⭐ 55 | 🐛 2 | 🌐 Shell | 📅 2026-07-24 - Lint your repo for AI agent compatibility. 33 evidence-backed checks across 5 dimensions. Claude Code plugin.
 * [code-review](./code-review) - Comprehensive code review with best practices, patterns, and improvement suggestions.
 * [test-writer-fixer](./test-writer-fixer) - Automatically write and fix unit tests. Supports Jest, Vitest, Pytest, and more.
 * [debugger](./debugger) - Advanced debugging assistant for tracking down and fixing complex bugs.
@@ -135,7 +135,7 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 
 ### DevOps & Performance
 
-* [Manifest](https://github.com/mnfst/manifest) ⭐ 7,505 | 🐛 103 | 🌐 TypeScript | 📅 2026-09-04 - Real-time cost observability for OpenClaw agents — track tokens, costs, messages, and model usage. Includes Claude Code [skill](https://github.com/mnfst/manifest/blob/main/skills/manifest/SKILL.md) ⭐ 7,505 | 🐛 103 | 🌐 TypeScript | 📅 2026-09-04 for guided setup. Self-hosted, OTLP ingestion, 28+ LLM models. ([Website](https://manifest.build))
+* [Manifest](https://github.com/mnfst/manifest) ⭐ 7,506 | 🐛 103 | 🌐 TypeScript | 📅 2026-09-04 - Real-time cost observability for OpenClaw agents — track tokens, costs, messages, and model usage. Includes Claude Code [skill](https://github.com/mnfst/manifest/blob/main/skills/manifest/SKILL.md) ⭐ 7,506 | 🐛 103 | 🌐 TypeScript | 📅 2026-09-04 for guided setup. Self-hosted, OTLP ingestion, 28+ LLM models. ([Website](https://manifest.build))
 * [perf](./perf) - Performance analysis and optimization. Identify bottlenecks and improve speed.
 * [audit-project](./audit-project) - Full project audit for code quality, dependencies, security, and best practices.
 * [MyVibe](https://www.myvibe.so) - Instant deployment to live URLs with `/myvibe:publish`.
@@ -144,13 +144,13 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 ### Documentation & Security
 
 * [security-sweep](https://github.com/Onome-AJ/security-sweep-plugin) ⭐ 6 | 🐛 0 | 📅 2026-04-05 - Comprehensive security scanner covering OWASP Top 10 (2025), Mobile Top 10 (2024), and LLM Top 10 (2025). Scans for hardcoded secrets, injection flaws, auth issues, misconfigurations, and AI-specific vulnerabilities.
-* [asqav-claude-code](https://github.com/jagmarques/asqav-claude-code) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-01 - Signs a tamper-evident Asqav receipt at the end of each Claude Code session: files edited (content hashes before/after), commands run (hashed), and git context. Verifiable by anyone at asqav.com/verify.
+* [asqav-claude-code](https://github.com/jagmarques/asqav-claude-code) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-09-05 - Signs a tamper-evident Asqav receipt at the end of each Claude Code session: files edited (content hashes before/after), commands run (hashed), and git context. Verifiable by anyone at asqav.com/verify.
 * [documentation-generator](./documentation-generator) - Generate comprehensive documentation from code. READMEs, API docs, and guides.
 * [security-guidance](./security-guidance) - Security best practices and vulnerability detection. OWASP guidelines and secure coding.
 
 ### Developer Productivity
 
-* [context-mode](https://github.com/mksglu/claude-context-mode) ⭐ 20,356 | 🐛 208 | 🌐 TypeScript | 📅 2026-09-04 - Process large outputs in sandboxed subprocesses, keeping only summaries in the context window. 98% context savings across 21 benchmarked scenarios.
+* [context-mode](https://github.com/mksglu/claude-context-mode) ⭐ 20,387 | 🐛 209 | 🌐 TypeScript | 📅 2026-09-05 - Process large outputs in sandboxed subprocesses, keeping only summaries in the context window. 98% context savings across 21 benchmarked scenarios.
 
 * [codebase-graph](https://github.com/Phoenixrr2113/codebase-graph) ⭐ 7 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-24 - Code intelligence MCP server that builds knowledge graphs from source code with 42-language tree-sitter AST parsing and FalkorDB.
 
@@ -231,7 +231,7 @@ Please ensure your plugin:
 * [Claude Code Documentation](https://code.claude.com/docs)
 * [Plugin Development Guide](https://code.claude.com/docs/en/plugins)
 * [Discover Plugins](https://code.claude.com/docs/en/discover-plugins)
-* [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 74,467 | 🐛 1,400 | 🌐 Python | 📅 2026-08-10 - More skills and resources
+* [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 74,522 | 🐛 1,403 | 🌐 Python | 📅 2026-08-10 - More skills and resources
 
 ## License
 
@@ -239,4 +239,4 @@ MIT - See individual plugins for their specific licenses.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

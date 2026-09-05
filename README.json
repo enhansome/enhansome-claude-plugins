@@ -70,7 +70,7 @@
                 "open_issues": 2,
                 "owner": "0xmariowu",
                 "repo": "AgentLint",
-                "stars": 54,
+                "stars": 55,
                 "topics": [
                   "agent-friendly",
                   "agents-md",
@@ -168,7 +168,7 @@
                 "open_issues": 103,
                 "owner": "mnfst",
                 "repo": "manifest",
-                "stars": 7505,
+                "stars": 7506,
                 "topics": [
                   "ai",
                   "ai-",
@@ -247,7 +247,7 @@
                 "id": 1267540434,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-01T23:41:07Z",
+                "last_commit": "2026-09-05T14:15:58Z",
                 "open_issues": 0,
                 "owner": "jagmarques",
                 "repo": "asqav-claude-code",
@@ -284,11 +284,11 @@
                 "id": 1164477708,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T12:06:42Z",
-                "open_issues": 208,
+                "last_commit": "2026-09-05T12:05:40Z",
+                "open_issues": 209,
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 20356,
+                "stars": 20387,
                 "topics": [
                   "antigravity",
                   "claude",
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:31:19.484Z",
+    "last_updated": "2026-09-05T17:26:25.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.",
@@ -568,7 +568,7 @@
       "open_issues": 329,
       "owner": "composio-community",
       "repo": "awesome-claude-plugins",
-      "stars": 1928,
+      "stars": 1933,
       "topics": [
         "anthropic",
         "claude-ai",
