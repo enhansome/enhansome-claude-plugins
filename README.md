@@ -128,14 +128,14 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 
 ### Backend & Architecture
 
-* [maestro-orchestrate](https://github.com/josstei/maestro-orchestrate) ⭐ 464 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-07 - Multi-agent development orchestration coordinating 22 specialized subagents through 4-phase workflows with native parallel execution, persistent sessions, and standalone commands for code review, debugging, security audit, and more.
+* [maestro-orchestrate](https://github.com/josstei/maestro-orchestrate) ⭐ 465 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-07 - Multi-agent development orchestration coordinating 22 specialized subagents through 4-phase workflows with native parallel execution, persistent sessions, and standalone commands for code review, debugging, security audit, and more.
 * [backend-architect](./backend-architect) - Backend architecture patterns, API design, database schemas, and system design.
 * [mcp-builder](./mcp-builder) - Guides creation of high-quality MCP (Model Context Protocol) servers for integrating external APIs and services with LLMs.
 * [agent-sdk-dev](./agent-sdk-dev) - Claude Agent SDK development helper for building custom AI agents.
 
 ### DevOps & Performance
 
-* [Manifest](https://github.com/mnfst/manifest) ⭐ 7,522 | 🐛 102 | 🌐 TypeScript | 📅 2026-09-14 - Real-time cost observability for OpenClaw agents — track tokens, costs, messages, and model usage. Includes Claude Code [skill](https://github.com/mnfst/manifest/blob/main/skills/manifest/SKILL.md) ⭐ 7,522 | 🐛 102 | 🌐 TypeScript | 📅 2026-09-14 for guided setup. Self-hosted, OTLP ingestion, 28+ LLM models. ([Website](https://manifest.build))
+* [Manifest](https://github.com/mnfst/manifest) ⭐ 7,525 | 🐛 107 | 🌐 TypeScript | 📅 2026-09-15 - Real-time cost observability for OpenClaw agents — track tokens, costs, messages, and model usage. Includes Claude Code [skill](https://github.com/mnfst/manifest/blob/main/skills/manifest/SKILL.md) ⭐ 7,525 | 🐛 107 | 🌐 TypeScript | 📅 2026-09-15 for guided setup. Self-hosted, OTLP ingestion, 28+ LLM models. ([Website](https://manifest.build))
 * [perf](./perf) - Performance analysis and optimization. Identify bottlenecks and improve speed.
 * [audit-project](./audit-project) - Full project audit for code quality, dependencies, security, and best practices.
 * [MyVibe](https://www.myvibe.so) - Instant deployment to live URLs with `/myvibe:publish`.
@@ -144,15 +144,15 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 ### Documentation & Security
 
 * [security-sweep](https://github.com/Onome-AJ/security-sweep-plugin) ⭐ 6 | 🐛 0 | 📅 2026-04-05 - Comprehensive security scanner covering OWASP Top 10 (2025), Mobile Top 10 (2024), and LLM Top 10 (2025). Scans for hardcoded secrets, injection flaws, auth issues, misconfigurations, and AI-specific vulnerabilities.
-* [asqav-claude-code](https://github.com/jagmarques/asqav-claude-code) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-09-05 - Signs a tamper-evident Asqav receipt at the end of each Claude Code session: files edited (content hashes before/after), commands run (hashed), and git context. Verifiable by anyone at asqav.com/verify.
+* [asqav-claude-code](https://github.com/jagmarques/asqav-claude-code) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-09-14 - Signs a tamper-evident Asqav receipt at the end of each Claude Code session: files edited (content hashes before/after), commands run (hashed), and git context. Verifiable by anyone at asqav.com/verify.
 * [documentation-generator](./documentation-generator) - Generate comprehensive documentation from code. READMEs, API docs, and guides.
 * [security-guidance](./security-guidance) - Security best practices and vulnerability detection. OWASP guidelines and secure coding.
 
 ### Developer Productivity
 
-* [context-mode](https://github.com/mksglu/claude-context-mode) ⭐ 22,821 | 🐛 245 | 🌐 TypeScript | 📅 2026-09-14 - Process large outputs in sandboxed subprocesses, keeping only summaries in the context window. 98% context savings across 21 benchmarked scenarios.
+* [context-mode](https://github.com/mksglu/claude-context-mode) ⭐ 23,044 | 🐛 247 | 🌐 TypeScript | 📅 2026-09-15 - Process large outputs in sandboxed subprocesses, keeping only summaries in the context window. 98% context savings across 21 benchmarked scenarios.
 
-* [codebase-graph](https://github.com/Phoenixrr2113/codebase-graph) ⭐ 7 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-11 - Code intelligence MCP server that builds knowledge graphs from source code with 42-language tree-sitter AST parsing and FalkorDB.
+* [codebase-graph](https://github.com/Phoenixrr2113/codebase-graph) ⭐ 7 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-14 - Code intelligence MCP server that builds knowledge graphs from source code with 42-language tree-sitter AST parsing and FalkorDB.
 
 * [backlog](https://github.com/backloghq/backlog) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-30 - Persistent, cross-session task management. 24 MCP tools for tasks, projects, tags, dependencies, and docs. 7 skills for planning, standups, and handoffs. Event-sourced storage, agent coordination, pure TypeScript. ([Website](https://backloghq.io))
 
@@ -170,7 +170,7 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 
 ### Image and Video Generation
 
-* [taisly-agent-kit](https://github.com/taisly/agent) ⭐ 219 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-06 - Claude Code plugin, skill, SDK, CLI, and MCP server for publishing short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook through Taisly.
+* [taisly-agent-kit](https://github.com/taisly/agent) ⭐ 218 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-06 - Claude Code plugin, skill, SDK, CLI, and MCP server for publishing short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook through Taisly.
 * [nano-banana](https://github.com/Ibrahim-3d/nano-banana-claude-plugin) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2026-04-08 - Google Gemini image generation plugin. Text-to-image, text-guided image editing, style transfer, 4K output, search grounding, and multi-reference composition — all from a single `/genimage` command. Powered by `gemini-2.5-flash-image` and `gemini-3-pro-image-preview`.
 
 ## Getting Started
@@ -231,7 +231,7 @@ Please ensure your plugin:
 * [Claude Code Documentation](https://code.claude.com/docs)
 * [Plugin Development Guide](https://code.claude.com/docs/en/plugins)
 * [Discover Plugins](https://code.claude.com/docs/en/discover-plugins)
-* [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 75,030 | 🐛 1,453 | 🌐 Python | 📅 2026-08-10 - More skills and resources
+* [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 75,087 | 🐛 1,458 | 🌐 Python | 📅 2026-08-10 - More skills and resources
 
 ## License
 
@@ -239,4 +239,4 @@ MIT - See individual plugins for their specific licenses.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
