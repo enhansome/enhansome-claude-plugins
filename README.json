@@ -164,11 +164,11 @@
                 "id": 542185751,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T15:54:35Z",
-                "open_issues": 107,
+                "last_commit": "2026-09-19T08:38:12Z",
+                "open_issues": 109,
                 "owner": "mnfst",
                 "repo": "llm-gateway",
-                "stars": 7528,
+                "stars": 7530,
                 "topics": [
                   "ai",
                   "ai-",
@@ -254,11 +254,11 @@
                 "id": 1164477708,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T12:06:26Z",
-                "open_issues": 260,
+                "last_commit": "2026-09-19T12:05:41Z",
+                "open_issues": 262,
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 23505,
+                "stars": 23638,
                 "topics": [
                   "antigravity",
                   "claude",
@@ -455,7 +455,7 @@
                 "open_issues": 2,
                 "owner": "taisly",
                 "repo": "agent",
-                "stars": 212,
+                "stars": 213,
                 "topics": [
                   "agent-kit",
                   "agentic-workflows",
@@ -526,7 +526,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T18:35:48.456Z",
+    "last_updated": "2026-09-19T18:08:42.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.",
