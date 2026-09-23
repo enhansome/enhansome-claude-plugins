@@ -164,8 +164,8 @@
                 "id": 542185751,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T15:01:20Z",
-                "open_issues": 110,
+                "last_commit": "2026-09-23T17:42:31Z",
+                "open_issues": 109,
                 "owner": "mnfst",
                 "repo": "llm-gateway",
                 "stars": 7540,
@@ -212,7 +212,7 @@
                 "open_issues": 0,
                 "owner": "Onome-AJ",
                 "repo": "security-sweep-plugin",
-                "stars": 7,
+                "stars": 8,
                 "topics": [
                   "ai-security",
                   "api-key-leak",
@@ -234,6 +234,36 @@
                 ]
               },
               "first_seen": "2026-08-29T00:03:05.007Z"
+            },
+            {
+              "node_type": "item",
+              "title": "asqav-claude-code",
+              "description": "Signs a tamper-evident Asqav receipt at the end of each Claude Code session: files edited (content hashes before/after), commands run (hashed), and git context. Verifiable by anyone at asqav.com/verify.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Signed Asqav receipts for Claude Code sessions. Tamper evident evidence of what your coding agent did.",
+                "homepage": "https://asqav.com",
+                "id": 1267540434,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-14T21:44:19Z",
+                "open_issues": 1,
+                "owner": "jagmarques",
+                "repo": "asqav-claude-code",
+                "stars": 3,
+                "topics": [
+                  "ai-agents",
+                  "ai-governance",
+                  "audit-trail",
+                  "claude-code",
+                  "code-authorship",
+                  "compliance",
+                  "signed-receipts",
+                  "verifiable-evidence"
+                ]
+              },
+              "first_seen": "2026-09-23T19:08:46.435Z"
             }
           ],
           "description": null,
@@ -254,11 +284,11 @@
                 "id": 1164477708,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T18:05:51Z",
-                "open_issues": 274,
+                "last_commit": "2026-09-23T12:07:16Z",
+                "open_issues": 275,
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 23948,
+                "stars": 23987,
                 "topics": [
                   "antigravity",
                   "claude",
@@ -526,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T19:01:07.736Z",
+    "last_updated": "2026-09-23T19:08:46.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.",
@@ -535,10 +565,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-07-26T09:02:02Z",
-      "open_issues": 352,
+      "open_issues": 354,
       "owner": "composio-community",
       "repo": "awesome-claude-plugins",
-      "stars": 1975,
+      "stars": 1980,
       "topics": [
         "anthropic",
         "claude-ai",
