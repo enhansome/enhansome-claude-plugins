@@ -164,11 +164,11 @@
                 "id": 542185751,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T06:45:28Z",
+                "last_commit": "2026-10-05T21:18:21Z",
                 "open_issues": 46,
                 "owner": "mnfst",
                 "repo": "llm-gateway",
-                "stars": 7551,
+                "stars": 7552,
                 "topics": [
                   "ai",
                   "ai-",
@@ -284,11 +284,11 @@
                 "id": 1164477708,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-04T13:48:12Z",
-                "open_issues": 324,
+                "last_commit": "2026-10-05T12:08:00Z",
+                "open_issues": 332,
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 25373,
+                "stars": 25470,
                 "topics": [
                   "antigravity",
                   "claude",
@@ -485,7 +485,7 @@
                 "open_issues": 2,
                 "owner": "taisly",
                 "repo": "agent",
-                "stars": 216,
+                "stars": 217,
                 "topics": [
                   "agent-kit",
                   "agentic-workflows",
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:42:31.400Z",
+    "last_updated": "2026-10-05T22:06:20.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.",
@@ -565,10 +565,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-07-26T09:02:02Z",
-      "open_issues": 385,
+      "open_issues": 387,
       "owner": "composio-community",
       "repo": "awesome-claude-plugins",
-      "stars": 1930,
+      "stars": 1933,
       "topics": [
         "anthropic",
         "claude-ai",
