@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "shepsci",
                 "repo": "kaggle-skill",
-                "stars": 96,
+                "stars": 97,
                 "topics": [
                   "agent-skill",
                   "ai-coding-agent",
@@ -165,10 +165,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-05T21:18:21Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "mnfst",
                 "repo": "llm-gateway",
-                "stars": 7552,
+                "stars": 7556,
                 "topics": [
                   "ai",
                   "ai-",
@@ -288,7 +288,7 @@
                 "open_issues": 332,
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 25470,
+                "stars": 25512,
                 "topics": [
                   "antigravity",
                   "claude",
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:06:20.461Z",
+    "last_updated": "2026-10-06T10:52:20.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.",
@@ -568,7 +568,7 @@
       "open_issues": 387,
       "owner": "composio-community",
       "repo": "awesome-claude-plugins",
-      "stars": 1933,
+      "stars": 1934,
       "topics": [
         "anthropic",
         "claude-ai",
