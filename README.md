@@ -128,7 +128,7 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 
 ### Backend & Architecture
 
-* [maestro-orchestrate](https://github.com/josstei/maestro-orchestrate) ⭐ 463 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-07 - Multi-agent development orchestration coordinating 22 specialized subagents through 4-phase workflows with native parallel execution, persistent sessions, and standalone commands for code review, debugging, security audit, and more.
+* [maestro-orchestrate](https://github.com/josstei/maestro-orchestrate) ⭐ 464 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-07 - Multi-agent development orchestration coordinating 22 specialized subagents through 4-phase workflows with native parallel execution, persistent sessions, and standalone commands for code review, debugging, security audit, and more.
 * [backend-architect](./backend-architect) - Backend architecture patterns, API design, database schemas, and system design.
 * [mcp-builder](./mcp-builder) - Guides creation of high-quality MCP (Model Context Protocol) servers for integrating external APIs and services with LLMs.
 * [agent-sdk-dev](./agent-sdk-dev) - Claude Agent SDK development helper for building custom AI agents.
@@ -150,7 +150,7 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 
 ### Developer Productivity
 
-* [context-mode](https://github.com/mksglu/claude-context-mode) ⭐ 25,512 | 🐛 332 | 🌐 TypeScript | 📅 2026-10-05 - Process large outputs in sandboxed subprocesses, keeping only summaries in the context window. 98% context savings across 21 benchmarked scenarios.
+* [context-mode](https://github.com/mksglu/claude-context-mode) ⭐ 25,540 | 🐛 333 | 🌐 TypeScript | 📅 2026-10-06 - Process large outputs in sandboxed subprocesses, keeping only summaries in the context window. 98% context savings across 21 benchmarked scenarios.
 
 * [codebase-graph](https://github.com/Phoenixrr2113/codebase-graph) ⭐ 7 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-14 - Code intelligence MCP server that builds knowledge graphs from source code with 42-language tree-sitter AST parsing and FalkorDB.
 
@@ -231,7 +231,7 @@ Please ensure your plugin:
 * [Claude Code Documentation](https://code.claude.com/docs)
 * [Plugin Development Guide](https://code.claude.com/docs/en/plugins)
 * [Discover Plugins](https://code.claude.com/docs/en/discover-plugins)
-* [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 76,575 | 🐛 1,644 | 🌐 Python | 📅 2026-09-18 - More skills and resources
+* [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 76,597 | 🐛 1,649 | 🌐 Python | 📅 2026-09-18 - More skills and resources
 
 ## License
 
