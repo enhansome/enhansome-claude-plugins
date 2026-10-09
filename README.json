@@ -70,7 +70,7 @@
                 "open_issues": 2,
                 "owner": "0xmariowu",
                 "repo": "AgentLint",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "agent-friendly",
                   "agents-md",
@@ -159,16 +159,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Connect Your Agents And Harnesses With Any Provider 🦚",
+                "description": "Open Source LLM Gateway 🦚",
                 "homepage": "https://manifest.build",
                 "id": 542185751,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T15:38:31Z",
-                "open_issues": 56,
+                "last_commit": "2026-10-09T14:33:31Z",
+                "open_issues": 50,
                 "owner": "mnfst",
                 "repo": "llm-gateway",
-                "stars": 7566,
+                "stars": 7567,
                 "topics": [
                   "ai",
                   "ai-",
@@ -251,7 +251,7 @@
                 "open_issues": 1,
                 "owner": "jagmarques",
                 "repo": "asqav-claude-code",
-                "stars": 3,
+                "stars": 2,
                 "topics": [
                   "ai-agents",
                   "ai-governance",
@@ -284,11 +284,11 @@
                 "id": 1164477708,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T12:07:15Z",
+                "last_commit": "2026-10-09T12:06:52Z",
                 "open_issues": 339,
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 25711,
+                "stars": 25931,
                 "topics": [
                   "antigravity",
                   "claude",
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:45:17.968Z",
+    "last_updated": "2026-10-09T20:12:19.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.",
@@ -565,10 +565,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-07-26T09:02:02Z",
-      "open_issues": 399,
+      "open_issues": 403,
       "owner": "composio-community",
       "repo": "awesome-claude-plugins",
-      "stars": 1937,
+      "stars": 1936,
       "topics": [
         "anthropic",
         "claude-ai",
