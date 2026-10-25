@@ -115,11 +115,11 @@
                 "id": 1153318872,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T06:36:00Z",
+                "last_commit": "2026-10-25T17:55:15Z",
                 "open_issues": 6,
                 "owner": "josstei",
                 "repo": "maestro-orchestrate",
-                "stars": 485,
+                "stars": 484,
                 "topics": [
                   "agentic",
                   "ai-agents",
@@ -168,7 +168,7 @@
                 "open_issues": 51,
                 "owner": "mnfst",
                 "repo": "llm-gateway",
-                "stars": 7597,
+                "stars": 7599,
                 "topics": [
                   "ai",
                   "ai-",
@@ -284,11 +284,11 @@
                 "id": 1164477708,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T16:52:52Z",
+                "last_commit": "2026-10-25T18:28:44Z",
                 "open_issues": 356,
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 32110,
+                "stars": 32209,
                 "topics": [
                   "antigravity",
                   "claude",
@@ -441,7 +441,7 @@
                 "open_issues": 0,
                 "owner": "yaniv-golan",
                 "repo": "claude-familiar",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "ai-companion",
                   "anthropic",
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:16:29.621Z",
+    "last_updated": "2026-10-25T18:30:38.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.",
@@ -565,10 +565,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-07-26T09:02:02Z",
-      "open_issues": 473,
+      "open_issues": 483,
       "owner": "composio-community",
       "repo": "awesome-claude-plugins",
-      "stars": 1961,
+      "stars": 1964,
       "topics": [
         "anthropic",
         "claude-ai",
