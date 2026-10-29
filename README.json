@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "0xmariowu",
                 "repo": "AgentLint",
-                "stars": 60,
+                "stars": 61,
                 "topics": [
                   "agent-friendly",
                   "agents-md",
@@ -164,11 +164,11 @@
                 "id": 542185751,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T21:10:28Z",
-                "open_issues": 53,
+                "last_commit": "2026-10-29T16:48:07Z",
+                "open_issues": 49,
                 "owner": "mnfst",
                 "repo": "llm-gateway",
-                "stars": 7605,
+                "stars": 7604,
                 "topics": [
                   "ai",
                   "ai-",
@@ -284,11 +284,11 @@
                 "id": 1164477708,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T19:45:38Z",
+                "last_commit": "2026-10-29T20:23:20Z",
                 "open_issues": 354,
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 32683,
+                "stars": 32830,
                 "topics": [
                   "antigravity",
                   "claude",
@@ -326,7 +326,7 @@
                 "id": 1135873291,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T21:09:28Z",
+                "last_commit": "2026-10-28T22:15:42Z",
                 "open_issues": 13,
                 "owner": "Phoenixrr2113",
                 "repo": "codebase-graph",
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T20:25:59.112Z",
+    "last_updated": "2026-10-29T20:24:57.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.",
@@ -565,10 +565,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-07-26T09:02:02Z",
-      "open_issues": 496,
+      "open_issues": 500,
       "owner": "composio-community",
       "repo": "awesome-claude-plugins",
-      "stars": 1968,
+      "stars": 1972,
       "topics": [
         "anthropic",
         "claude-ai",
