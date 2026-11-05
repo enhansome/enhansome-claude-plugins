@@ -105,6 +105,34 @@
           "children": [
             {
               "node_type": "item",
+              "title": "glen",
+              "description": "Shared team memory for coding agents. Recalls past decisions on every turn and records what you build, so your whole team's agents work from one history. (Website)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1266594788,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-11-05T20:55:58Z",
+                "open_issues": 0,
+                "owner": "Glen-Web-App",
+                "repo": "glen-claude-code-plugin",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-05T21:30:14.111Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Agent Memory"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "maestro-orchestrate",
               "description": "Multi-agent development orchestration coordinating 22 specialized subagents through 4-phase workflows with native parallel execution, persistent sessions, and standalone commands for code review, debugging, security audit, and more.",
               "children": [],
@@ -165,10 +193,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-04T20:59:32Z",
-                "open_issues": 51,
+                "open_issues": 54,
                 "owner": "mnfst",
                 "repo": "llm-gateway",
-                "stars": 7616,
+                "stars": 7619,
                 "topics": [
                   "ai",
                   "ai-",
@@ -247,8 +275,8 @@
                 "id": 1267540434,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-18T11:27:43Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-05T19:42:52Z",
+                "open_issues": 1,
                 "owner": "jagmarques",
                 "repo": "asqav-claude-code",
                 "stars": 2,
@@ -280,15 +308,15 @@
               "repo_info": {
                 "archived": false,
                 "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
-                "homepage": "https://contextmode.ai/?utm_source=github&utm_medium=about",
+                "homepage": "https://contextmode.ai",
                 "id": 1164477708,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T20:33:24Z",
-                "open_issues": 357,
+                "last_commit": "2026-11-05T21:03:18Z",
+                "open_issues": 3,
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 33469,
+                "stars": 33555,
                 "topics": [
                   "antigravity",
                   "claude",
@@ -556,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T21:23:20.835Z",
+    "last_updated": "2026-11-05T21:30:14.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.",
@@ -564,11 +592,11 @@
       "id": 1080989149,
       "language": "JavaScript",
       "license": null,
-      "last_commit": "2026-07-26T09:02:02Z",
-      "open_issues": 517,
+      "last_commit": "2026-11-05T04:02:31Z",
+      "open_issues": 519,
       "owner": "composio-community",
       "repo": "awesome-claude-plugins",
-      "stars": 1978,
+      "stars": 1981,
       "topics": [
         "anthropic",
         "claude-ai",
@@ -584,7 +612,7 @@
         "plugins"
       ]
     },
-    "original_repository_sha": "e521f7ada8d89abea888e67b93b4dcfbb977041f",
+    "original_repository_sha": "c511c77b6e4860bc076e5c5b3ac55c51030d602d",
     "enhanced_repository": "enhansome/enhansome-claude-plugins",
     "enhanced_repository_description": null,
     "title": "Awesome claude plugins with stars"
