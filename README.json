@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "shepsci",
                 "repo": "kaggle-skill",
-                "stars": 111,
+                "stars": 112,
                 "topics": [
                   "agent-skill",
                   "ai-coding-agent",
@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "0xmariowu",
                 "repo": "AgentLint",
-                "stars": 63,
+                "stars": 64,
                 "topics": [
                   "agent-friendly",
                   "agents-md",
@@ -198,10 +198,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-09T21:11:34Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "mnfst",
                 "repo": "llm-gateway",
-                "stars": 7629,
+                "stars": 7630,
                 "topics": [
                   "ai",
                   "ai-",
@@ -317,11 +317,11 @@
                 "id": 1164477708,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T03:26:10Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-10T03:23:18Z",
+                "open_issues": 27,
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 33761,
+                "stars": 33809,
                 "topics": [
                   "antigravity",
                   "claude",
@@ -589,7 +589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:49:00.827Z",
+    "last_updated": "2026-11-10T21:22:09.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.",
@@ -598,10 +598,10 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-11-05T04:02:31Z",
-      "open_issues": 564,
+      "open_issues": 572,
       "owner": "composio-community",
       "repo": "awesome-claude-plugins",
-      "stars": 1987,
+      "stars": 1990,
       "topics": [
         "anthropic",
         "claude-ai",
