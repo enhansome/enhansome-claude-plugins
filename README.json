@@ -115,7 +115,7 @@
                 "id": 1266594788,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-08T23:36:11Z",
+                "last_commit": "2026-11-11T05:41:11Z",
                 "open_issues": 0,
                 "owner": "Glen-Web-App",
                 "repo": "glen-claude-code-plugin",
@@ -201,7 +201,7 @@
                 "open_issues": 57,
                 "owner": "mnfst",
                 "repo": "llm-gateway",
-                "stars": 7630,
+                "stars": 7628,
                 "topics": [
                   "ai",
                   "ai-",
@@ -245,7 +245,7 @@
                 "open_issues": 0,
                 "owner": "Onome-AJ",
                 "repo": "security-sweep-plugin",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "ai-security",
                   "api-key-leak",
@@ -317,11 +317,11 @@
                 "id": 1164477708,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T03:23:18Z",
-                "open_issues": 27,
+                "last_commit": "2026-11-11T21:29:35Z",
+                "open_issues": 29,
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 33809,
+                "stars": 33886,
                 "topics": [
                   "antigravity",
                   "claude",
@@ -589,7 +589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:22:09.811Z",
+    "last_updated": "2026-11-11T22:06:44.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.",
@@ -598,7 +598,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-11-05T04:02:31Z",
-      "open_issues": 572,
+      "open_issues": 579,
       "owner": "composio-community",
       "repo": "awesome-claude-plugins",
       "stars": 1990,
